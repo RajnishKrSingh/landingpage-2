@@ -102,7 +102,7 @@ footer p {
 }
 
 /* Small Screens */
-@media (max-width: 560px) {
+@media(max-width: 600px) {
   .showcase::after {
     height: 50vh;
   }
@@ -133,7 +133,7 @@ footer p {
 }
 
 /* Landscape */
-@media (max-height: 500px) {
+@media(max-height: 500px) {
   .content .title,
   .content .text {
     display: none;
